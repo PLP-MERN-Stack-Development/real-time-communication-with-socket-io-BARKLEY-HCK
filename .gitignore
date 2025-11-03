@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+.env.local
+.DS_Store
+
+# Build outputs
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Coverage / testing
+coverage/
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
